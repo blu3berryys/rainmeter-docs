@@ -14,7 +14,7 @@
     "clean": "hexo clean"
   },
   "dependencies": {
-    "bootstrap": "5.0.1",
+    "bootstrap": "5.3.3",
     "ejs": "3.1.10",
     "hexo": "5.4.2",
     "hexo-renderer-ejs": "2.0.0",
